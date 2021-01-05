@@ -1,0 +1,32 @@
+11:22:57	 From  niland : What would be a good area of machine learning to study after taking this class?
+11:26:43	 From  niland : Okay Thank you!
+11:56:03	 From  Baladithya Balamurugan : For G4 do we know where the threshold units and linear units are located?
+11:56:08	 From  Baladithya Balamurugan : Q4*
+11:56:17	 From  Baladithya Balamurugan : or am I misreading something
+11:57:13	 From  Narges Norouzi : It is a linear function
+11:57:48	 From  Narges Norouzi : Refer to the given equations
+11:58:58	 From  Baladithya Balamurugan : ah I just realized
+11:59:21	 From  Baladithya Balamurugan : I didnt read it right ty
+12:15:35	 From  Zachary Dutra : For question 4, is b2 now b1 and b3 is now b2?
+12:15:46	 From  Baladithya Balamurugan : ^
+12:16:13	 From  Michael Covarrubias : The text says b1 but there is no b1
+12:16:21	 From  Narges Norouzi : There is no b1
+12:16:21	 From  Michael Covarrubias : You should fill weights b2 and b3
+12:16:41	 From  Narges Norouzi : b2 is b2, b3 is b3 based on equations :)
+12:18:37	 From  Sukhveer Karlcut : For #9 do you want 2 examples of when having a lower dimensionality of the code layer is optimal?
+12:19:20	 From  Michael Covarrubias : Two use cases
+12:19:24	 From  Narges Norouzi : yes
+12:20:26	 From  Alfredo Renteria : for problem 4 what is the initial x_t
+12:20:34	 From  Alfredo Renteria : is a_t = 0?
+12:21:09	 From  Michael Covarrubias : Yes initial a is 0
+12:21:17	 From  Alfredo Renteria : thanks
+12:22:44	 From  Michael Briden : a_0=0
+12:24:25	 From  Baladithya Balamurugan : Q8 its max 3 sentences?
+12:25:09	 From  Baladithya Balamurugan : or is that a suggestion to keep relatively short
+12:25:16	 From  Narges Norouzi : That’s what the question says, right?
+12:25:44	 From  Baladithya Balamurugan : I assume its the former
+12:27:13	 From  Alfredo Renteria : Thank you everybody!
+12:28:01	 From  Narges Norouzi : You’re welcome
+12:28:36	 From  radomyrbezghin : Thanks professor! It was a great course.
+12:28:50	 From  Baladithya Balamurugan : ty professor
+12:29:04	 From  Baladithya Balamurugan : twas a great experience

@@ -1,0 +1,47 @@
+11:13:28	 From  Varun Balusu : I forgot to clarify this but does anyone know what the difference between this:
+11:13:32	 From  Varun Balusu : y=θ0+θ1x+θ2x2+...+θdxd
+11:13:44	 From  Varun Balusu : And this y=θ0+θ1x1+θ2x22+...+θdxdd
+11:14:00	 From  Varun Balusu : Like one has the subscripts and the other does not
+11:19:59	 From  Baladithya Balamurugan : I try to abide by subscript to identify the features of the data pt and the superscript to identify the index of the collection of data pts
+11:20:46	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : Lol were you answering a questiom
+11:20:49	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : I joined late
+11:21:17	 From  Baladithya Balamurugan  to  Chidvi Doddi(Privately) : yea I was
+11:21:21	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : :0
+11:21:26	 From  Baladithya Balamurugan  to  Chidvi Doddi(Privately) : same q as @85 on piazza
+11:21:28	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : And r u ready for quizzie
+11:21:30	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : Ohh cool
+11:21:34	 From  Baladithya Balamurugan  to  Chidvi Doddi(Privately) : hell to the fuk no
+11:21:39	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : :(
+11:21:51	 From  Baladithya Balamurugan  to  Chidvi Doddi(Privately) : i dont even know what type of q is today
+11:21:56	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : ikr
+11:22:02	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : Its prob the same format
+11:22:06	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : Cause she likes doing that
+11:22:30	 From  Baladithya Balamurugan  to  Chidvi Doddi(Privately) : like are we doing theoretical only or is a littl bit of vector calcs in there?
+11:24:38	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : Theoretical mostly I think
+11:24:44	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : She’s prob gonna pull from the pmts
+11:24:48	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : ppts*
+11:24:57	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : Cause we aren’t coding on the test
+11:26:48	 From  Baladithya Balamurugan  to  Chidvi Doddi(Privately) : hoping that we aren't coding
+11:43:46	 From  Baladithya Balamurugan  to  Chidvi Doddi(Privately) : why do i feel somewhat terrified
+11:44:58	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : rip
+11:45:03	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : Lol same
+12:03:33	 From  Baladithya Balamurugan : for q8 are we to assume the matrix X has a column of 1's? for the bias term
+12:07:40	 From  Michael Covarrubias : Matrix X includes bias term
+12:08:02	 From  Baladithya Balamurugan : ty
+12:11:08	 From  radomyrbezghin : Accidentally submitted quiz =(
+12:13:02	 From  Sukhveer Karlcut : For question 11 does explain the significance of each term mean explain each variable?
+12:14:13	 From  Narges Norouzi : each term in the cost function and factors
+12:14:24	 From  Sukhveer Karlcut : thanks
+12:23:00	 From  Baladithya Balamurugan : is q7 asking about a non-linear and complex model from a data set or a non-linear and complex dataset
+12:23:39	 From  Narges Norouzi : what do you mean by a non-linear dataset?
+12:23:51	 From  Narges Norouzi : I think the question is clear
+12:24:23	 From  Baladithya Balamurugan : i was assuming model but on the off chance its talking about a data set with a high variance
+12:24:36	 From  Baladithya Balamurugan : just want to clarify that's all
+12:25:46	 From  Michael Briden : as the question states: train a non-linear and complex (in both the geometric and algebraic sense) model
+12:26:17	 From  Shishir Kapoor : Can we quit the zoom session if we have submitted the quiz?
+12:26:25	 From  Vipul Gupta : ^
+12:26:31	 From  Michael Covarrubias : Yes
+12:26:37	 From  Vipul Gupta : Ok thanks
+12:26:39	 From  Shishir Kapoor : Cool. Thanks
+12:30:03	 From  Chidvi Doddi  to  Baladithya Balamurugan(Privately) : Bruh that was hell
+12:30:06	 From  Baladithya Balamurugan  to  Chidvi Doddi(Privately) : ikr

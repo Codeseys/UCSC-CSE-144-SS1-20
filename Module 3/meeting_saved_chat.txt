@@ -1,0 +1,50 @@
+11:01:30	 From  Somya Bhatia : yes
+11:01:32	 From  John Lara : Yes
+11:01:51	 From  Chidvi Doddi : Lecture 6 material is going to be on the quiz right ms norouzi?
+11:13:01	 From  Baladithya Balamurugan : isn't that just reaching 1
+11:13:07	 From  Alfredo Renteria : 1. What is the value of logit(1)?
+11:13:16	 From  Alfredo Renteria : 2. sigmoid(+inf) = +inf
+11:13:23	 From  Chidvi Doddi : Why Is not inf tho
+11:13:33	 From  John Lara : its bounded by 1
+11:13:41	 From  Chidvi Doddi : Oh I mean logit(1)
+11:13:58	 From  John Lara : its domain Is infinity, but its range is [0,1]
+11:14:00	 From  Chidvi Doddi : She’s goin over it dw
+11:14:22	 From  Baladithya Balamurugan : 1/0 == inf?
+11:15:50	 From  Baladithya Balamurugan : so logit(1) is log(1/1-1) = log(1/0) = log(inf) = 1right?
+11:16:02	 From  Baladithya Balamurugan : nvm
+11:16:06	 From  Aviv Brook : log(inf)=inf
+11:16:33	 From  Baladithya Balamurugan : logit(1) is odds 1the message lagged
+11:16:49	 From  John Lara : no, p/(1-p) = 1, so log(1) = 0
+11:16:51	 From  Chris Liu : p / (1-p) = 1, logit(p / (1-p)) = logit(1) = log(1) = 0
+11:17:12	 From  Baladithya Balamurugan : yea the 1 is odds not probability that's what I meant
+11:17:29	 From  Chidvi Doddi : yup
+11:17:55	 From  Chidvi Doddi : Why do use the odds ratio option again for that bali
+11:18:25	 From  Aviv Brook : In that question, yes. I think moral of the story is we just have to be specific about the input in the future
+11:18:36	 From  Baladithya Balamurugan : for the logit func?
+11:18:42	 From  Chidvi Doddi : yup
+11:19:26	 From  Baladithya Balamurugan : probability is bounded [0,1]but odds is bounded [0,inf]
+11:19:57	 From  Chidvi Doddi : Cause then I thought logit(1) was inf
+11:20:01	 From  Chidvi Doddi : But its 0 right
+11:20:03	 From  Baladithya Balamurugan : yea 
+11:20:05	 From  Baladithya Balamurugan : 0
+11:20:12	 From  Chidvi Doddi : Why is it not inf
+11:20:26	 From  Chidvi Doddi : Won’t logit(0) be 0 then based on what u said
+11:20:32	 From  Baladithya Balamurugan : cause log(1) = x is the same as e^x = 1
+11:20:38	 From  Baladithya Balamurugan : so x is just 0
+11:20:43	 From  Aviv Brook : It just depends on the definition of the function... logit(p=1)=inf, log(odds=1)=0
+11:20:50	 From  Chidvi Doddi : Oo ok
+11:21:37	 From  John Lara : tis by design, if we have p = 1,  then that mean we have 100% certainty, so we have the highest possible value which would be inf
+11:21:53	 From  John Lara : hence logit(p =1) = inf
+11:26:43	 From  Baladithya Balamurugan : as the value passed into the logit func approaches infinity the limit is 1
+11:27:02	 From  Baladithya Balamurugan : similar for -inf that is 0
+11:27:45	 From  Baladithya Balamurugan : p=1 is just odds approaching +inf
+11:29:57	 From  niland : do we limit neuron's activation to the range (0,1) simply to make computation faster? why cant a neurons activation be (-inf, +inf)?
+11:52:56	 From  radomyrbezghin : my laptop just crashed
+11:53:01	 From  radomyrbezghin : I hope this okay
+11:54:11	 From  Michael Covarrubias : Im sorry but I don’ think there is anything we can do about your laptop crashing
+11:56:04	 From  Narges Norouzi : You should be able to continue with the quiz
+11:59:55	 From  Baladithya Balamurugan : is question 7 repeating or is that correct
+12:01:26	 From  Michael Covarrubias : I don’t think it’s repeating. All question are different
+12:01:33	 From  Baladithya Balamurugan : ok thank you
+12:09:20	 From  Cyrus Hyett : I accidentally submitted my quiz early, is there anyway I can go back?
+12:10:06	 From  Michael Covarrubias : Im sorry but I don’t think there is a way
